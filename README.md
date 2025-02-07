@@ -71,7 +71,7 @@ const skills = {
 ---
 
 ## 🎯 Current Focus
-- 🌱 Deepening my understanding of **Application Development**
+- 🌱 Deepening my understanding of **Web development**
 - ☁️ Learning **Cloud Computing & Deployment**
 - 🔥 Contributing to **Open-Source Projects**
 - 🏆 Solving **algorithmic problems** on LeetCode
@@ -99,6 +99,4 @@ const skills = {
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jayakrishna1304/jayakrishna1304/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+
