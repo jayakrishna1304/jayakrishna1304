@@ -52,8 +52,7 @@ const skills = {
   </tr>
 </table>
 
-## 📈 Contribution Graph
-![Snake animation](snake.svg)
+
 
 ## 🎯 Current Focus
 - Deepening my understanding on Application Development
